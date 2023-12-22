@@ -6,5 +6,15 @@
 |   ![](https://github.com/bohyunkang.png?size=100)    | ![](https://github.com/poiu03290.png?size=100)  | ![](https://github.com/lumayi.png?size=100) |
 |:------------------------------------------------:|:--------------------------------------------:|:---------------------------------------------:|
 |         [강보현](https://github.com/bohyunkang)         |       [권혁](https://github.com/poiu03290)       |     [이수진](https://github.com/lumayi)       |
+
+<h1>진행방식</h1>
+<ul align='start'>
+<li>
+회차 폴더 안에 {이름}.md 파일 안에 내용 정리
+</li>
+<li>
+발표자외: 질문 10개 이상 준비
+</li>
+</ul>
 </div>
 
