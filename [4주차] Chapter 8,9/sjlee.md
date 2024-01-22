@@ -30,3 +30,15 @@ Promise.resolve()
 ```
 
 > [3] Promise reject 타입을 extends Error로 만들지 않은 이유는?
+ #
+
+# 9장 프론트엔드 프레임워크와 백엔드 프레임워크
+
+### 프론트엔드 프레임워크
+
+- 리액트 (Jsx, tsx)
+- 앵귤러
+
+> QUIZ  
+> [1] 리액트가 좋은 라이브러리인 이유는?  
+> [2] 어떤 옵션을 사용하면 import React from 'react'를 하지않아도 될까요?
