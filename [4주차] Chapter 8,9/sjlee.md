@@ -42,7 +42,7 @@ myFunc();
 console.log('After function!');
 ```
 
-> [3] Promise reject 타입을 extends Error로 만들지 않은 이유는?
+> [5] Promise reject 타입을 extends Error로 만들지 않은 이유는?
  #
 
 # 9장 프론트엔드 프레임워크와 백엔드 프레임워크
