@@ -27,6 +27,19 @@ setTimeout(() => console.info('A'), 0);
 Promise.resolve()
   .then(() => console.log(2))
   .then(() => console.log(3));
+
+// [4] 아래는?
+const one = () => Promise.resolve('One!')
+
+async function myfunc() {
+  console.log('In function!');
+  const res = await one();
+  console.log(res);
+}
+
+console.log('Before function!');
+myFunc();
+console.log('After function!');
 ```
 
 > [3] Promise reject 타입을 extends Error로 만들지 않은 이유는?
